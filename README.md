@@ -3,7 +3,7 @@ Este repositório tem como objetivo demonstrar a instalação (no Sistema Operac
 e utilização da aplicação Stacer, que otimiza o sistema operacional Linux e permite fazer ajustes de monitoramento do sistema.
 Para isso é necessário um ambiente gráfico, neste tutorial será usado o gnome, junto do Xorg (servidor de exibição). Além disso,
 é usado o helper YAY, que será utilizado para pegar o stacer do Arch Linux Repository.
-
+O presente repositório foi feito por um grupo de alunos da Faculdade de Tecnologia de Americana na disciplina de Sistemas Operacionais II
 
 ## Instalação do gnome:
 	Para isso, precisaremos atualizar o sistema com o comando: 
