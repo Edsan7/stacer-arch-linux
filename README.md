@@ -14,7 +14,7 @@ Clique em [Instalação do Stacer](installation.md) para visualizar o arquivo md
 ## Abas do Stacer
 Clique nos links para visualizar o respectivo arquivo de cada funcionalidade do Stacer.
 
-[Monitoramento do Sistema](systemResources.md)  
+[Monitoramento do Sistema](SystemResources.md)  
 [Startup Apps](StartupApps.md)  
 [System Cleaner](cleaner_search.md)  
 [Processos](Proccess.md)  
