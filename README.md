@@ -17,8 +17,8 @@ Clique nos links para visualizar o respectivo arquivo de cada funcionalidade do 
 [Monitoramento do Sistema](SystemResources.md)  
 [Startup Apps](StartupApps.md)  
 [System Cleaner](cleaner_search.md)  
-[Processos](Proccess.md)  
-[Serviços](Services.md)  
+[Processos](proccess.md)  
+[Serviços](services.md)  
 [Desinstalação](uninstall.md)  
 [Recursos](resources.md)  
 
