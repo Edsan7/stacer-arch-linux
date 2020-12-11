@@ -13,13 +13,14 @@ Clique em [Instalação do Stacer](installation.md) para visualizar o arquivo md
 
 ## Abas do Stacer
 Clique nos links para visualizar o respectivo arquivo de cada funcionalidade do Stacer.
-[Monitoramento do Sistema](systemResources.md)
-[Startup Apps](startupApps.md)
-[System Cleaner](cleaner_search.md)
-[Processos](proccess.md)
-[Serviços](services.md)
-[Desinstalação](unnistall.md)
-[Recursos](resources.md)
+
+[Monitoramento do Sistema](systemResources.md)  
+[Startup Apps](startupApps.md)  
+[System Cleaner](cleaner_search.md)  
+[Processos](proccess.md)  
+[Serviços](services.md)  
+[Desinstalação](unnistall.md)  
+[Recursos](resources.md)  
 
 ## LICENÇA
 Repositório sob licença do MIT. Veja [LICENSE](LICENSE) para mais informações.
